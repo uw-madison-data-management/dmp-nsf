@@ -5,7 +5,8 @@ Link to survey for feedback on the Brown Bag: <a href = "http://bit.ly/2Fk7euz" 
 
 UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/learn-about-data-management/" target = "blank">Learn About Data Management</a>
 
-**NSF Research Directorate Resources**
+**NSF Research Directorate DMP Guidance**
+
 <a href = "https://www.nsf.gov/bio/pubs/BIODMP_Guidance.pdf" target = "_blank">Biological Sciences (BIO)</a>
 
 <a href = "https://www.nsf.gov/cise/cise_dmp.jsp" target = "_blank">Computer and Information Science and Engineering (CISE)</a>
