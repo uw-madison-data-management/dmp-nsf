@@ -21,3 +21,8 @@ UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/learn
 
 <a href = "https://www.nsf.gov/sbe/DMP/SBE_DataMgmtPlanPolicy_RevisedApril2018.pdf" target="_blank">Social, Behavioral, and Economic Sciences (SBE)</a>
 
+**DMPTool Resources**
+
+<a href = "https://dmptool.org/help" target = "_blank">Quick Start Guide</a>
+
+<a href = "https://dmptool.org/faq" target = "_blank">FAQs</a>
