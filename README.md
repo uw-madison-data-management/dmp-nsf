@@ -2,7 +2,7 @@
 **Resources for using DMPTool to create a data management plan following NSF policies**
 
 Link to survey for feedback on the Brown Bag: <a href = "http://bit.ly/2Fk7euz" target = "blank">Feedback Survey</a>
-"http://researchdata.wisc.edu/how-to-create-a-dmp/" target = "blank">How to Create a Data Management Plan</a>
+UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/how-to-create-a-dmp/" target = "blank">How to Create a Data Management Plan</a>
 
 **NSF Research Directorate DMP Guidance**
 
