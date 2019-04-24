@@ -1,5 +1,5 @@
 # dmp-nsf
-Resources for using DMPTool to create a data management plan following NSF directorates
+Resources for using DMPTool to create a data management plan following NSF policies
 
 Link to survey for feedback on the Brown Bag: <a href = "http://bit.ly/2Fk7euz" target = "blank">Feedback Survey</a>
 
